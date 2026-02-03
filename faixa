@@ -1,0 +1,10 @@
+<!-- HTML -->
+<div class="faixa-vermelha">
+  <h2>Seção Vermelha</h2>
+  <p>Conteúdo da sua primeira faixa.</p>
+</div>
+
+<div class="faixa-azul">
+  <h2>Seção Azul</h2>
+  <p>Conteúdo da sua segunda faixa.</p>
+</div>
