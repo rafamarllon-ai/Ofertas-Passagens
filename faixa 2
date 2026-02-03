@@ -1,0 +1,14 @@
+/* CSS */
+.faixa-vermelha {
+  background-color: #e74c3c; /* vermelho */
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
+
+.faixa-azul {
+  background-color: #3498db; /* azul */
+  color: white;
+  padding: 50px;
+  text-align: center;
+}
